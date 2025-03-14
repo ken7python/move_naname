@@ -1,3 +1,4 @@
+//% cc test.c CHero.c -lraylib && ./a.out
 #include "raylib.h"
 #include "CHero.h"
 
